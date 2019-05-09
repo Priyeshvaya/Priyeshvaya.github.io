@@ -1602,9 +1602,47 @@ body {
     height: auto;
   }
 }
+.cid-roWKj9cBaX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-roWKj9cBaX .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-roWKj9cBaX .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-roWKj9cBaX .plan-header,
+.cid-roWKj9cBaX .plan-body {
+  background-color: #fff;
+}
+.cid-roWKj9cBaX .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-roWKj9cBaX .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-roWKj9cBaX .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-roWKj9cBaX .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-roWKj9cBaX hr {
+  margin: 2rem 0;
+}
 .cid-rohJQjaddO {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
